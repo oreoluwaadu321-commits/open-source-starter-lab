@@ -52,4 +52,6 @@ Review times vary depending on maintainer availability. If a few days pass witho
 
 Review the feedback, make the requested updates locally, and push the new commits to the same branch. The pull request will update automatically.
 
+## Do my messy commits matter?
 
+No! We use **Squash and Merge**. This means all your small, messy commits (like "fix typo" or "oops") will automatically be combined into one clean commit when your pull request is merged. You don't need to worry about cleaning up your commit history. For more details, see our [Merge Strategy Guide](MERGE_STRATEGY.md).
